@@ -15,7 +15,7 @@ Used Pairwise learning to rank and rank svm for ranking the hashtags.
 app_v3_bin.py : pairwise learning and ranksvm
 
 Evaluation:
-Precision: https://github.com/sunilpankaj/HashtagRecommendation/blob/master/precision.jpg
+Precision: =![precision](https://github.com/sunilpankaj/HashtagRecommendation/blob/master/precision.jpg)
 
 
 
