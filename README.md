@@ -21,7 +21,7 @@ Evaluation:
 ![F1](https://github.com/sunilpankaj/HashtagRecommendation/blob/master/F1.jpg)
 ![hitrate](https://github.com/sunilpankaj/HashtagRecommendation/blob/master/hitrate.jpg)
 
-
+Reference Paper : http://www3.ntu.edu.sg/home/AXSun/paper/Sigir14Hashtag_CR.pdf
 
 
 
