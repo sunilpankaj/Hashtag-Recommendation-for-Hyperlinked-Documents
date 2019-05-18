@@ -2,18 +2,11 @@
 	Program: main code to recommend hashtags given a post (end-to-end code)
 """
 import os
-print "0"
 import csv
-print "1"
 import LTModel_test
-print "2"
-print "3"
 import similarDesc_test
-print "4"
 import similarContent_test
-print "5"
 import d2v_test
-print "6"
 import networkx as nx
 import operator
 from collections import Counter
@@ -25,16 +18,6 @@ from sklearn import metrics
 import spacy
 from sklearn.metrics import confusion_matrix
 nlp = spacy.load("en")
-#import sim_desc
-print "7"
-#import sim_content
-print "8"
-#import RWR
-print "9"
-#import LTModel
-print "10"
-#import d2v
-#from d2v import doc2vect
 import time
 #Parameter
 K = 10
