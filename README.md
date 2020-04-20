@@ -1,4 +1,4 @@
-use crawler.py to scrap news data from moneycontrol.com site.
+Use crawler.py to scrap news data from moneycontrol.com site.
 Sample of data: testing_eco.csv
 
 Hashtag recommendation method has two phases: candidate hashtag selection and hashtag ranking
